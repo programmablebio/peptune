@@ -11,3 +11,5 @@ Peptide therapeutics, a major class of medicines, have achieved remarkable succe
 
 ## We optimize desired therapeutic properties of generated sequences based on Monte Carlo Tree Search 
 ![Monte Carlo Tree Search Schemetic View](mcts.png)
+
+To use this repository, you agree to abide by the [PepTune License]([https://duke.box.com/s/5ghseh23rpsyou66kg60qr89sxt5twyu](https://drive.google.com/file/d/1Hsu91wTmxyoJLNJzfPDw5_nTbxVySP5x/view?usp=sharing)).
