@@ -1,15 +1,3 @@
----
-license: cc-by-nc-nd-4.0
-tags:
-- biology
-- peptides
-- mdlm
-- discrete
-- diffusion
-- MCTS
----
-
-#[preprint]()
 <div align="center">
   <img src="peptune.png" alt="peptune" width="300" height="300">
 </div>
