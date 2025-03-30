@@ -11,11 +11,3 @@ Peptide therapeutics, a major class of medicines, have achieved remarkable succe
 
 ## We optimize desired therapeutic properties of generated sequences based on Monte Carlo Tree Search 
 ![Monte Carlo Tree Search Schemetic View](mcts.png)
-
-## Inference API, datasets, and sequences will be freely accessible to the academic community via a non-commercial license upon publication and provisional patent filing
-
-## Interactive Demo
-
-You can try out the our peptide visualizer directly in your browser, other property classifiers will be added soon:
-
-<https://huggingface.co/spaces/ChatterjeeLab/SMILES2PEPTIDE>
