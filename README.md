@@ -12,4 +12,14 @@ Peptide therapeutics, a major class of medicines, have achieved remarkable succe
 ## We optimize desired therapeutic properties of generated sequences based on Monte Carlo Tree Search 
 ![Monte Carlo Tree Search Schemetic View](mcts.png)
 
+## Citation
+If you find this repository helpful for your publications, please consider citing our paper:
+```
+@article{tang2025peptune,
+  title={Peptune: De novo generation of therapeutic peptides with multi-objective-guided discrete diffusion},
+  author={Tang, Sophia and Zhang, Yinuo and Chatterjee, Pranam},
+  journal={42nd International Conference on Machine Learning},
+  year={2025}
+}
+
 To use this repository, you agree to abide by the [PepTune License](https://drive.google.com/file/d/1Hsu91wTmxyoJLNJzfPDw5_nTbxVySP5x/view?usp=sharing).
